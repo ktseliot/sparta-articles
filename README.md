@@ -1,6 +1,6 @@
 # Sparta Global Medium Articles
 
-This repo contains articles written by students from [Sparta Global](http://spartaglobal.com). It is available to view at https://spartaglobal.github.io/sparta-articles/. 
+This repo contains articles written by students from [Sparta Global](http://spartaglobal.com). It is available to view at https://spartaglobal.github.io/sparta-articles/.
 
 ## Adding an Article
 
